@@ -1,9 +1,11 @@
 # PI-1-SEMESTER-BCS
 My first web development project, created as a university assignment for the Web Development module on the Computer Science degree course.
 
+---
+
 Name of the game: A university student's choice
 
-🖥️ Gameplay:
+🖥️ **Gameplay:**
 There are three different attributes at play, Money, Intelligence, and Fame all of which are influenced by the player's decisions over time. The main objectives are to reach graduation and avoid letting any attribute reach zero or exceed 100, as either case results in a Game Over. Each card represents one month, making the full game last 48 cards, the length of a typical university degree. Your choices throughout the 48 months shape the outcome of your story. The game features multiple possible endings, depending on how you manage your attributes and respond to events
 
 🕹️ Controls and mechanics:
@@ -34,7 +36,7 @@ Using the 8-bit style found in classic video games, with a minimalist look, but 
 
 🎓 Semester summaries
 
-____________________________________________________________________________
+---
 
 🎮 How to Play
 Requirements:
