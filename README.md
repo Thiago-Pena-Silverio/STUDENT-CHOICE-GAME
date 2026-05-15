@@ -1,5 +1,5 @@
 # FP-1-SEMESTER-BCS
-My first web development project, created as a university assignment for the Web Development module on the Computer Science degree course.
+Final project for the 1st semester of the Bachelor's Degree in Computer Science
 
 ---
 
