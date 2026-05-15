@@ -26,13 +26,17 @@ At the end of each semester, the player will receive a summary of their performa
 Graphics and audio:
 Using the 8-bit style found in classic video games, with a minimalist look, but still beautiful and understandable. Both the graphics and visuals as well as the sound will draw on the simplicity and nostalgia of old video games.
 
-4. Add a Features section
+Features:
 🎯 48 unique monthly scenarios
-🔀 Branching choices with consequences
-📊 Attribute management system
-🎓 Semester summaries
-🎮 8‑bit retro aesthetic
 
+
+🔀 Branching choices with consequences
+
+📊 Attribute management system
+
+🎓 Semester summaries
+
+🎮 8‑bit retro aesthetic
 
 How to Play
 Requirements:
