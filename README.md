@@ -38,14 +38,16 @@ Using the 8-bit style found in classic video games, with a minimalist look, but 
 
 ---
 
-🎮 How to Play
-Requirements:
+🎮 **How to Play**
+
+**Requirements:**
 
 - Windows 10 or higher
 
 - No additional installation needed
 
-💾 Installation Instructions
+**Installation Instructions:** 💾 
+
 1. Download: Click on Code → Download ZIP
 
 2. Extract: Unzip the file STUDENT-CHOICE-GAME-main.zip
