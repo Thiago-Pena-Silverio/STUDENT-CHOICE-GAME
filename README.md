@@ -26,15 +26,15 @@ Using the 8-bit style found in classic video games, with a minimalist look, but 
 
 🎖️ **Features:**
 
-🎯 48 unique monthly scenarios
+- 48 unique monthly scenarios 🎯
 
-👾 8‑bit retro aesthetic
+- 8‑bit retro aesthetic 👾
 
-🔀 Branching choices with consequences
+- Branching choices with consequences 🔀
 
-📊 Attribute management system
+- Attribute management system 📊
 
-🎓 Semester summaries
+- Semester summaries 🎓
 
 ---
 
