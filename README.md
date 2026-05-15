@@ -45,6 +45,7 @@ ____________________________________________________________________________
 Requirements:
 
 Windows 10 or higher
+
 No additional installation needed
 
 💾 Installation Instructions
@@ -54,8 +55,10 @@ No additional installation needed
 
 3. Navigation:
     STUDENT-CHOICE-GAME-main/
-       └── AEU/
-            └── AEDU.exe  ← Double click here to play
+   
+   └── AEU/
+   
+   └── AEDU.exe  ← Double click here to play
     
-4. Play: The game will start automatically
+5. Play: The game will start automatically
 
