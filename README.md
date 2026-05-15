@@ -43,9 +43,9 @@ ____________________________________________________________________________
 🎮 How to Play
 Requirements:
 
-Windows 10 or higher
+- Windows 10 or higher
 
-No additional installation needed
+- No additional installation needed
 
 💾 Installation Instructions
 1. Download: Click on Code → Download ZIP
