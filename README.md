@@ -7,7 +7,7 @@ Summary:
 You enter university and have to deal with the decisions of adult life.
 
 🖥️ Gameplay:
-There are three different attributes at play Money, Intelligence, and Fame all of which are influenced by the player's decisions over time. The main objectives are to reach graduation and avoid letting any attribute reach zero or exceed 100, as either case results in a Game Over. Each card represents one month, making the full game last 48 cards, the length of a typical university degree. Your choices throughout the 48 months shape the outcome of your story. The game features multiple possible endings, depending on how you manage your attributes and respond to events
+There are three different attributes at play, Money, Intelligence, and Fame all of which are influenced by the player's decisions over time. The main objectives are to reach graduation and avoid letting any attribute reach zero or exceed 100, as either case results in a Game Over. Each card represents one month, making the full game last 48 cards, the length of a typical university degree. Your choices throughout the 48 months shape the outcome of your story. The game features multiple possible endings, depending on how you manage your attributes and respond to events
 
 🕹️ Controls and mechanics:
 Using the mouse/keyboard, the player will click on one side of the screen/use the arrows (left or right) to make a decision about the situation they have been given. The player's choices can increase or decrease attribute points and generate future consequences, which may force them to make decisions they don't like or just reach an inevitable end.
