@@ -1,4 +1,4 @@
-# PI-1-SEMESTER-BCS
+# PF-1-SEMESTER-BCS
 My first web development project, created as a university assignment for the Web Development module on the Computer Science degree course.
 
 ---
