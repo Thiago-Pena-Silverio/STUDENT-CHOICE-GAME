@@ -30,14 +30,13 @@ Using the 8-bit style found in classic video games, with a minimalist look, but 
 
 🎯 48 unique monthly scenarios
 
+👾 8‑bit retro aesthetic
 
 🔀 Branching choices with consequences
 
 📊 Attribute management system
 
 🎓 Semester summaries
-
-👾 8‑bit retro aesthetic
 
 ____________________________________________________________________________
 
@@ -55,10 +54,8 @@ No additional installation needed
 
 3. Navigation:
     STUDENT-CHOICE-GAME-main/
-   
-   └── AEU/
-   
-   └── AEDU.exe  ← Double click here to play
+       └── AEU/
+           └── AEDU.exe  ← Double click here to play
     
 5. Play: The game will start automatically
 
