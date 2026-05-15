@@ -39,6 +39,8 @@ Using the 8-bit style found in classic video games, with a minimalist look, but 
 
 👾 8‑bit retro aesthetic
 
+____________________________________________________________________________
+
 🎮 How to Play
 Requirements:
 
