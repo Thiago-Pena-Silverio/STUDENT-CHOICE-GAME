@@ -27,6 +27,7 @@ Graphics and audio:
 Using the 8-bit style found in classic video games, with a minimalist look, but still beautiful and understandable. Both the graphics and visuals as well as the sound will draw on the simplicity and nostalgia of old video games.
 
 Features:
+
 🎯 48 unique monthly scenarios
 
 
@@ -40,6 +41,7 @@ Features:
 
 How to Play
 Requirements:
+
 Windows 10 or higher
 No additional installation needed
 
