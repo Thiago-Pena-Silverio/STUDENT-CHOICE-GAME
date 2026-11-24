@@ -1,9 +1,10 @@
-# FP-1-SEMESTER-BCS
-Final project for the 1st semester of the Bachelor's Degree in Computer Science
+# A University Student’s Choice
+
+A decision game written in C with Allegro 5 for a first-semester Computer Science project. Players make choices over 48 simulated months while balancing money, intelligence and fame.
+
+[Read the game source](AEU/AEDU.c) · [Explore the game assets](AEU/cartas)
 
 ---
-
-**Name of the game:** A university student's choice
 
 🖥️ **Gameplay:**
 There are three different attributes at play, Money, Intelligence, and Fame all of which are influenced by the player's decisions over time. The main objectives are to reach graduation and avoid letting any attribute reach zero or exceed 100, as either case results in a Game Over. Each card represents one month, making the full game last 48 cards, the length of a typical university degree. Your choices throughout the 48 months shape the outcome of your story. The game features multiple possible endings, depending on how you manage your attributes and respond to events
@@ -57,5 +58,5 @@ Using the 8-bit style found in classic video games, with a minimalist look, but 
        └── AEU/
            └── AEDU.exe  ← Double click here to play
     
-5. Play: The game will start automatically
+4. Keep the executable in the extracted `AEU` folder so it can find the accompanying assets.
 
